@@ -12,7 +12,7 @@ The Kintone Developer Program is a program dedicated to supporting developers lo
 
 Check out [Kintone.dev](https://kintone.dev/) for more information.
 
-## Our Videos
+## Videos
 [![Youtube Badge](https://img.shields.io/badge/-KintoneDeveloperProgram-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KintoneDeveloperProgram)](https://www.youtube.com/c/KintoneDeveloperProgram) [![Youtube Badge](https://img.shields.io/youtube/channel/views/UCSdpokTEbUZ7vSE3SflSIZg?style=for-the-badge)](https://www.youtube.com/c/KintoneDeveloperProgram) ![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCSdpokTEbUZ7vSE3SflSIZg?style=for-the-badge)
 
 Subscribe to our YouTube videos to watch tutorials and past workshops recordings!
@@ -23,9 +23,13 @@ Subscribe to our YouTube videos to watch tutorials and past workshops recordings
  <img src="http://img.youtube.com/vi/rQhRESq_tsc/mqdefault.jpg" alt="Watch the video" width="320" height="180" border="10" />
 </a>
 
-## Kintone Developer Forum
+## Developer Forum
 
 Join our [Kintone Developer Forum](https://forum.kintone.dev/) to ask questions, share your ideas, and connect with other developers.
 
 [![Discourse Badge](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.kintone.dev&style=for-the-badge)](https://forum.kintone.dev/)
 
+## Live Online Workshops & In-Person Events
+
+Join our [![Meetup](https://img.shields.io/static/v1?style=for-the-badge&message=Meetup&color=ED1C40&logo=Meetup&logoColor=FFFFFF&label=)](https://www.meetup.com/kintone-developers/) or follow our 
+[![Eventbrite](https://img.shields.io/static/v1?style=for-the-badge&message=Eventbrite&color=F05537&logo=Eventbrite&logoColor=FFFFFF&label=)](https://www.eventbrite.com/o/kintone-developer-program-35299961053) to join our next event!
