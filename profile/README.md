@@ -25,9 +25,9 @@ Subscribe to our YouTube videos to watch tutorials and past workshops recordings
 
 ## Developer Forum
 
-Join our [Kintone Developer Forum](https://forum.kintone.dev/) to ask questions, share your ideas, and connect with other developers.
-
 [![Discourse Badge](https://img.shields.io/discourse/topics?server=https%3A%2F%2Fforum.kintone.dev&style=for-the-badge)](https://forum.kintone.dev/)
+
+Join our [Kintone Developer Forum](https://forum.kintone.dev/) to ask questions, share your ideas, and connect with other developers.
 
 ## Live Online Workshops & In-Person Events
 
