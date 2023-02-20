@@ -13,7 +13,8 @@ The Kintone Developer Program is a program dedicated to supporting developers lo
 Check out [Kintone.dev](https://kintone.dev/) for more information.
 
 ## Videos
-[![Youtube Badge](https://img.shields.io/badge/-KintoneDeveloperProgram-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KintoneDeveloperProgram)](https://www.youtube.com/c/KintoneDeveloperProgram) [![Youtube Badge](https://img.shields.io/youtube/channel/views/UCSdpokTEbUZ7vSE3SflSIZg?style=for-the-badge)](https://www.youtube.com/c/KintoneDeveloperProgram) ![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCSdpokTEbUZ7vSE3SflSIZg?style=for-the-badge)
+[![Youtube Badge](https://img.shields.io/badge/-KintoneDeveloperProgram-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/KintoneDeveloperProgram)](https://www.youtube.com/c/KintoneDeveloperProgram)  
+[![Youtube Badge](https://img.shields.io/youtube/channel/views/UCSdpokTEbUZ7vSE3SflSIZg?style=for-the-badge)](https://www.youtube.com/c/KintoneDeveloperProgram) ![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCSdpokTEbUZ7vSE3SflSIZg?style=for-the-badge)
 
 Subscribe to our YouTube videos to watch tutorials and past workshops recordings!
 
